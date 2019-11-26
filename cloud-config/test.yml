@@ -1,3 +1,0 @@
-spring-cloud:
-  config:
-    test: 'hello world -- config-server'
