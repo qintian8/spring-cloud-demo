@@ -1,3 +1,4 @@
 cloud:
   service:
     member: 'Hello Member!!! 哈哈哈'
+    order: 'Hello Member!!! 哈哈哈'
